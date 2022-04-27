@@ -1,7 +1,5 @@
 <img align="center" src="SQL_Portfolio/Images/TysonBannerPicture.jpg" />
 
-## This line was added to see if i understand how to push to different branches
-
 ### Hey, Im Tyson Biegler and this is my
 ### SQL portfolio.
 
