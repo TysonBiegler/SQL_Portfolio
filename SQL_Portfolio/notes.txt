@@ -1,0 +1,5 @@
+# merging dev with master
+git checkout development
+git merge development   
+git checkout Master   
+git push  
