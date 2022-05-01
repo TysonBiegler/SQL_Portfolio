@@ -176,12 +176,16 @@ WHERE id = 99716
 
 SELECT * --CHECKING TO SEE IF MIRANDA PRIESTLY MAKES ALOT OF MONEY
 FROM income
-WHERE annual_income > 
+WHERE annual_income > --SEEING IF HER INCOME IS ABOVE AVERAGE
 (
-  SELECT AVG(annual_income) AS avg_income
+  SELECT AVG(annual_income) AS avg_income  --SUBQUERY TO CALCULATE THE AVERAGE INCOME
 FROM income
 )
 AND ssn = 987756388
+
+-- ssn	annual_income
+-- 987756388	310000
+
 
 
 -- Check your solution
