@@ -15,7 +15,7 @@
 <img align="center" src="SQL_Portfolio/Images/Google1.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google2.png" />
 ------ | -----
 <img align="center" src="SQL_Portfolio/Images/Google3.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google4.png" />
-<img align="center" src="SQL_Portfolio/Images/Google5.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google5.png" />
+<img align="center" src="SQL_Portfolio/Images/Google5.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google6.png" />
 <img align="center" src="SQL_Portfolio/Images/SoloLearn.png" /> |  <img align="center" src="SQL_Portfolio/Images/ResponsiveWebDesign.png" />  |   <img align="center" src="SQL_Portfolio/Images/HackerRank.png" />
 
 ## GITHUB STATS
