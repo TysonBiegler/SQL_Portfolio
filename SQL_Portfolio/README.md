@@ -12,7 +12,7 @@
 
 ## CERTIFICATIONS
 
-<img align="center" src="SQL_Portfolio/Images/Google1.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google2.png" />
+<img align="center" src="SQL_Portfolio\Images\google_data_analytics.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google2.png" />
 ------ | -----
 <img align="center" src="SQL_Portfolio/Images/Google3.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google4.png" />
 <img align="center" src="SQL_Portfolio/Images/Google5.png" />  |   <img align="center" src="SQL_Portfolio/Images/Google6.png" />
