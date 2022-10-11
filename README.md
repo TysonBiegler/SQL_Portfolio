@@ -1,4 +1,4 @@
-<img align="center" src="SQL_Portfolio/Images/TysonBannerPicture.jpg" />
+<img align="center" src="SQL_Portfolio/Images/166221683.jpg" />
 
 ### Hey, Im Tyson Biegler and this is my
 ### SQL portfolio.
