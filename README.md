@@ -7,16 +7,16 @@
 # <div align="center">[![Linkedin Badge](https://img.shields.io/badge/-TysonBiegler-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tysonbiegler/)](https://www.linkedin.com/in/tysonbiegler/)</div>
 
 ## SKILLS
-- 👨‍💻 Web Development  
-    HTML, 
-    CSS, 
-    JavaScript
+
 - 📊 Data analysis 
     SQL, 
     Tableau, 
     Excel, 
-    Python, 
-    D3 js
+    Python
+- 👨‍💻 Web Development  
+    HTML, 
+    CSS, 
+    JavaScript
 
 ## CERTIFICATIONS
 
