@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-TysonBiegler-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tysonbiegler/)](https://www.linkedin.com/in/tysonbiegler/)
 
 # Check out my portfolio
-### <a href="https://www.tysonbiegler.com">My Full Portfolio</a>
+### <a target="__blank" href="https://www.tysonbiegler.com">My Full Portfolio</a>
 
 ## SKILLS
 - 📊 Data analysis:
