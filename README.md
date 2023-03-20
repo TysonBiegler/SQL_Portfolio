@@ -1,5 +1,3 @@
-<img align="center" src="SQL_Portfolio/Images/1662216835349.jpg" />
-
 ### Hey, Im Tyson Biegler and this is my
 ### SQL portfolio.
 
@@ -17,12 +15,6 @@
     HTML, 
     CSS, 
     JavaScript
-
-## CERTIFICATIONS
-
-<img align="center" src="SQL_Portfolio/Images/google_data_analytics.png" width=48%/> <img align="center" src="SQL_Portfolio/Images/ResponsiveWebDesign.png" width=48%/>     
-<img align="center" src="SQL_Portfolio/Images/SoloLearn.png" width=48%/> <img align="center" src="SQL_Portfolio/Images/HackerRank.png" width=48%/>
-
 
 ## GITHUB STATS
 <img src="https://github-readme-stats.vercel.app/api?username=tysonbiegler&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tysonbiegler&theme=radical"/>|
